@@ -44,7 +44,7 @@ This repository provides a Velocity template that automatically creates 42 Schoo
 - Select templates such as `C++ Class`, `C++ Class Header`, and `C++ Module File`.
 - At the top of each template, add:
     ```cpp
-  #parse("Name of your template")`
+  #parse("Name of your template")
 - Replace `"Name of your template"` with the same name you chose (e.g., 42Header).
 - Click `Apply`.
 
